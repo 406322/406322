@@ -1,12 +1,6 @@
 <!--
 **406322/406322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
-## How to reach me:
-<a href="mailto:ludwig.slettingdalen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ludwig-slettingdalen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
 ## Tech Stack
 <p>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -52,10 +46,11 @@ lds.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
--->
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=406322&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=406322&theme=dark" width="48%" align="left" >
+-->
